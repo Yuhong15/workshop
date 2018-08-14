@@ -23,8 +23,10 @@ def division(a, b):
 
 	return quotient
 #This is for branch 2
-# def multiplication(a, b):
 
-# 	product = a * b
+def multiplication(a, b):
 
-# 	return product
+	product = a * b
+
+	return product
+#This is for branch 3
