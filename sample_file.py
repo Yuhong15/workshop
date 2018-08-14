@@ -17,12 +17,12 @@ def addition(a, b):
 # 	return difference
 
 
-# def division(a, b):
+def division(a, b):
 
-# 	quotient = a / b
+	quotient = a / b
 
-# 	return quotient
-
+	return quotient
+#This is for branch 2
 # def multiplication(a, b):
 
 # 	product = a * b
