@@ -3,11 +3,11 @@ Sample File
 
 
 
-# def addition(a, b):
+def addition(a, b):
 
-# 	summation = a + b
+	summation = a + b
 
-# 	return summation
+	return summation
 
 
 # def subtraction(a, b):
