@@ -10,12 +10,12 @@ def addition(a, b):
 	return summation
 
 
-# def subtraction(a, b):
+def subtraction(a, b):
 
-# 	difference = a - b
+	difference = a - b
 
-# 	return difference
-
+	return difference
+#This is for branch 1
 
 def division(a, b):
 
